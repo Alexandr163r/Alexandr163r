@@ -11,4 +11,4 @@ Tech Stack
 ![HTML](https://user-images.githubusercontent.com/94179286/156891345-7871d7b0-984c-43b1-a344-4547e4e9bb12.svg)
 ![Git](https://user-images.githubusercontent.com/94179286/156891352-c14dff70-71b9-41a1-a3e7-75a8283cdf4d.svg)
 ![GitHub](https://user-images.githubusercontent.com/94179286/156891353-b8ac0a44-1bf8-460d-8456-1b7937646cb1.svg)
-<img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+
