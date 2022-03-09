@@ -2,8 +2,8 @@
 - 👀 I’m interested in python web development
 - 💞️ I’m looking to collaborate on this direction
 - 📫 How to reach me :
-mail - ulyanov_alexandr_job@mail.ru
-Telegram - @Alex_and_r_U
+- Mail - ulyanov_alexandr_job@mail.ru
+- Telegram - @Alex_and_r_U
 
 Tech Stack
 ![Python](https://user-images.githubusercontent.com/94179286/156891265-98ddf279-eee6-403c-b17b-6b25fdd7e34a.svg)
