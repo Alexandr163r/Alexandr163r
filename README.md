@@ -14,3 +14,6 @@
 ![Git](https://user-images.githubusercontent.com/94179286/156891352-c14dff70-71b9-41a1-a3e7-75a8283cdf4d.svg)
 ![GitHub](https://user-images.githubusercontent.com/94179286/156891353-b8ac0a44-1bf8-460d-8456-1b7937646cb1.svg)
 
+
+
+Блог на django https://github.com/Alexandr163r/Django_blog.git
