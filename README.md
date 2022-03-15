@@ -17,3 +17,5 @@
 
 
 Блог на django https://github.com/Alexandr163r/Django_blog.git
+
+Парсер хабра карьеры https://github.com/Alexandr163r/Parsing.git
